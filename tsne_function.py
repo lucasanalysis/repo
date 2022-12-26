@@ -4,7 +4,7 @@ import pandas as pd
 from bokeh.plotting import figure, show, output_notebook,output_file
 from bokeh.models import HoverTool, ColumnDataSource, CategoricalColorMapper
 from bokeh.palettes import Spectral10,Inferno10,Paired3,Category10_10
-import h5py
+#import h5py
 from io import BytesIO
 import io
 from PIL import Image
