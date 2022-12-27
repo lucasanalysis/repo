@@ -18,6 +18,5 @@ streamlit-shap
 tensorflow
 opencv-python-headless
 grad-cam
-opencv-python-headless
 clip
 keras
