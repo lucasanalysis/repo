@@ -19,5 +19,4 @@ tensorflow
 grad-cam
 opencv-python-headless
 clip
-grad-cam
 keras
