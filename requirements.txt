@@ -7,7 +7,7 @@ tqdm
 xgboost
 lightgbm
 shap
-openTSNE
+openTSNE==0.6.0
 torchvision
 bokeh
 deepchecks
